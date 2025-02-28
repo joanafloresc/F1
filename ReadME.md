@@ -2,7 +2,7 @@
 
 Real World Project on Formula1 Racing using Azure Databricks, Delta Lake, Unity Catalog, Azure Data Factory
 
-Course: Azure Databricks & Spark For Data Engineers: Hands-on Project
+Course: Azure Databricks & Spark For Data Engineers: Hands-on Project\
 20H
 
 Sources of Information:
@@ -27,7 +27,7 @@ Creating, configuring and monitoring Databricks clusters, cluster pools and jobs
 Mounting Azure Storage in Databricks using secrets stored in Azure Key Vault\
 Working with Databricks Tables, Databricks File System (DBFS) etc\
 Using Delta Lake to implement a solution using Lakehouse architecture\
-Creating dashboards to visualise the outputs\
+Creating dashboards to visualise the outputs
 
 
 ### Spark (Only PySpark and SQL)
@@ -45,14 +45,14 @@ Emergence of Data Lakehouse architecture and the role of delta lake.
 Read, Write, Update, Delete and Merge to delta lake using both PySpark as well as SQL \
 History, Time Travel and Vacuum\
 Converting Parquet files to Delta files\
-Implementing incremental load pattern using delta lake\
+Implementing incremental load pattern using delta lake
 
 ### Unity Catalog
 Overview of Data Governance and Unity Catalog\
 Create Unity Catalog Metastore and enable a Databricks workspace with Unity Catalog\
 Overview of 3 level namespace and creating Unity Catalog objects\
 Configuring and accessing external data lakes via Unity Catalog\
-Development of mini project using unity catalog and seeing the key data governance capabilities offered by Unity Catalog such as Data Discovery, Data Audit, Data Lineage and Data Access Control\
+Development of mini project using unity catalog and seeing the key data governance capabilities offered by Unity Catalog such as Data Discovery, Data Audit, Data Lineage and Data Access Control
 
 ### Azure Data Factory
 Creating pipelines to execute Databricks notebooks\
